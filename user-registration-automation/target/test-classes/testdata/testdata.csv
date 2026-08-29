@@ -1,0 +1,7 @@
+TestCaseId,Username,Email,Password,ConfirmPassword,FirstName,LastName,DateOfBirth,Gender,AccountNumber,AccountType,IFSCCode,BankName,Street,City,State,Pincode,Country
+S1_TC01,testuser1,testuser1@gmail.com,SecurePass123,SecurePass123,,,,,,,,,,,,,
+S1_TC02,existinguser,newemail@gmail.com,SecurePass123,SecurePass123,,,,,,,,,,,,,
+S2_TC06,testuser2,testuser2@gmail.com,SecurePass123,SecurePass123,John,Doe,1990-01-01,Male,,,,,,,,,
+S2_TC11,testuser4,testuser4@gmail.com,SecurePass123,SecurePass123,,,,1234567890123456,Savings,SBIN0001234,State Bank of India,,,,,,
+S2_TC17,testuser5,testuser5@gmail.com,SecurePass123,SecurePass123,,,,,,,123 Main Street,New York,NY,10001,USA
+S3_TC01,testuser3,testuser3@gmail.com,SecurePass123,SecurePass123,John,Doe,1990-01-01,Male,1234567890123456,Savings,SBIN0001234,State Bank of India,123 Main Street,New York,NY,10001,USA

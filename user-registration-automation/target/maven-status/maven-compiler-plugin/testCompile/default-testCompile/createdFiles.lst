@@ -1,0 +1,13 @@
+com/userapp/automation/pages/BankDetailsPage.class
+com/userapp/automation/pages/AddressDetailsPage.class
+com/userapp/automation/pages/RegisterPage.class
+com/userapp/automation/tests/LoginAndAddDetailsTest.class
+com/userapp/automation/tests/AccountCreationTest.class
+com/userapp/automation/pages/LoginPage.class
+com/userapp/automation/pages/PersonalDetailsPage.class
+com/userapp/automation/utils/TestDataLoader.class
+com/userapp/automation/tests/LogoutReloginViewDataTest.class
+com/userapp/automation/pages/DashboardPage.class
+com/userapp/automation/utils/ScreenshotUtil.class
+com/userapp/automation/utils/BaseTest.class
+com/userapp/automation/utils/TestResultWatcher.class

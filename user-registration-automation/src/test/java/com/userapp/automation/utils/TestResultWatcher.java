@@ -28,13 +28,8 @@ public class TestResultWatcher implements TestWatcher {
     }
 
     @Override
-    public void testFailedWithException(ExtensionContext context, Throwable cause) {
+    public void testFailed(ExtensionContext context, Throwable cause) {
         logger.error("✗ Test FAILED: {} - {}", context.getDisplayName(), cause.getMessage());
-    }
-
-    @Override
-    public void testFailedWithThrowable(ExtensionContext context, Throwable cause) {
-        logger.error("✗ Test FAILED: {} - Throwable: {}", context.getDisplayName(), cause.getMessage());
     }
 
 }
